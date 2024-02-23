@@ -1,4 +1,4 @@
-name: Issue Automation
+uuname: Issue Automation
 on:
   issues:
     types: [opened]
